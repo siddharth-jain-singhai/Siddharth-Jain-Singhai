@@ -15,4 +15,4 @@ ThankYou! 🤝
 
 💬 Feel free to connect with me on...  
 👉 Click on <a alt="Linkedin" href="https://www.linkedin.com/in/siddharth-jain-singhai/">*__`Linkedin`__*</a>  
-👉 Click on <a alt="Email-ID" href="singhaisiddharth58@gmail.com">*__`Email 📧`__*</a>
+👉 Click on <a alt="Email-ID" href="singhaisiddharth58@gmail.com">*__`EmailMe📧`__*</a>
