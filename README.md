@@ -14,5 +14,5 @@ ThankYou! 🤝
 👉 Click on [*__`Resource Directory`__*](https://github.com/siddharth-jain-singhai/JungleeCode)
 
 💬 Feel free to connect with me on...  
-👉 Click on [*__`Linkedin`__*](https://www.linkedin.com/in/siddharth-jain-singhai/)  
-👉 Click on [*__`EmailMe📧`__*](singhaisiddharth58@gmail.com)
+👉 Click on <a alt="Linkedin" target="_blank" href="https://www.linkedin.com/in/siddharth-jain-singhai/">*__`Linkedin`__*</a>  
+👉 Click on <a alt="Email-ID" target="_blank" href="mailto:singhaisiddharth58@gmail.com">*__`EmailMe📧`__*</a>
