@@ -13,6 +13,9 @@ ThankYou! 🤝
 💬 Here you can access free resources for your projects...  
 👉 Click on [*__`Resource Directory`__*](https://github.com/siddharth-jain-singhai/JungleeCode)
 
+💬 Here you can see my personal & professional projects...  
+👉 Click on [*__`Projects Directory`__*](https://github.com/siddharth-jain-singhai/Projectory)
+
 💬 Feel free to connect with me on...  
 👉 Click on <a alt="Linkedin" href="https://www.linkedin.com/in/siddharth-jain-singhai/">*__`Linkedin`__*</a>  
 👉 Click on <a alt="Email-ID" href="mailto:singhaisiddharth58@gmail.com">*__`Email-Me`__*</a>
