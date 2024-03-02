@@ -4,7 +4,7 @@
 
 ### ✨ Welcome to My Profile Page MPP!
 Hey there! 👋,
-Myself Siddharth, representing the knowledge with my experiences in the field of Graphic Design, Web Development, and Search Engine Optimization (SEO). If you want to learn about Graphic creations whether you are a novice or a pro, you will find something interesting and inspiring here.  
+Myself Siddharth, representing the knowledge with my experiences in the field of Graphic Design, Web Development, and Search Engine Optimization (SEO). If you want to learn from my experiences and projects, whether you are a novice or a pro, you will find something interesting and inspiring here.  
 ThankYou! 🤝
 
 ### ✨ Other Details!
