@@ -13,4 +13,5 @@ ThankYou! 🤝
 
 💬 Feel free to connect with me on...  
 👉 Click on <a href="https://www.linkedin.com/in/siddharth-jain-singhai/">*__`Linkedin`__*</a>  
-👉 Click on <a href="mailto:singhaisiddharth58@gmail.com">*__`Email-Me`__*</a>
+👉 Click on <a href="mailto:singhaisiddharth58@gmail.com">*__`Email-Me`__*</a>  
+<a href="tel:+917906159120">*__`Call-Me`__*</a>
