@@ -12,6 +12,5 @@ ThankYou! 🤝
 👉 Click on [*__`Projects Directory`__*](https://github.com/siddharth-jain-singhai/Projectory)
 
 💬 Feel free to connect with me on...  
-👉 Click on <a alt="Linkedin" href="https://www.linkedin.com/in/siddharth-jain-singhai/">*__`Linkedin`__*</a>  
-👉 Click on <a alt="Email-ID" href="mailto:singhaisiddharth58@gmail.com">*__`Email-Me`__*</a>  
-Number - <a href="tel:+917906159120">Call</a>
+👉 Click on <a href="https://www.linkedin.com/in/siddharth-jain-singhai/">*__`Linkedin`__*</a>  
+👉 Click on <a href="mailto:singhaisiddharth58@gmail.com">*__`Email-Me`__*</a>
